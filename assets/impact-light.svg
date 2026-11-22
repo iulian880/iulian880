@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="184" viewBox="0 0 900 184" role="img" aria-label="Enterprise Automation Architecture — 1,000+ hours saved annually">
+  <defs>
+    <clipPath id="impClipLight">
+      <rect x="1" y="1" width="898" height="182" rx="12" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#impClipLight)">
+    <rect x="0" y="0" width="900" height="184" fill="#FFFFFF" />
+
+    <!-- Header Strip -->
+    <text x="24" y="30" fill="#57606A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.0">ENTERPRISE AUTOMATION ARCHITECTURE  ·  PRODUCTION DEPLOYMENT IN LOCKED-DOWN CORPORATE ENVIRONMENTS</text>
+
+    <!-- Node 1: Constraints -->
+    <rect x="24" y="46" width="194" height="114" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
+    <text x="40" y="69" fill="#64748B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.8">01 · CONSTRAINTS</text>
+    <text x="40" y="92" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Zero-Install Reality</text>
+    <text x="40" y="112" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· No admin or RPA licenses</text>
+    <text x="40" y="129" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· SAP Scripting disabled</text>
+    <text x="40" y="146" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· Zero stored credentials</text>
+
+    <!-- Arrow 1 -->
+    <line x1="222" y1="103" x2="240" y2="103" stroke="#94A3B8" stroke-width="1.5" />
+    <polygon points="239,99 246,103 239,107" fill="#94A3B8" />
+
+    <!-- Node 2: Runtime Engine -->
+    <rect x="248" y="46" width="204" height="114" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
+    <text x="264" y="69" fill="#0284C7" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.8">02 · RUNTIME ENGINE</text>
+    <text x="264" y="92" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Declarative Automation</text>
+    <text x="264" y="112" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· Win32 API · Focus-safe UI</text>
+    <text x="264" y="129" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· Edge CDP + Shadow DOM</text>
+    <text x="264" y="146" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· Embedded Python PDF</text>
+
+    <!-- Arrow 2 -->
+    <line x1="456" y1="103" x2="474" y2="103" stroke="#94A3B8" stroke-width="1.5" />
+    <polygon points="473,99 480,103 473,107" fill="#94A3B8" />
+
+    <!-- Node 3: Build & CI -->
+    <rect x="482" y="46" width="198" height="114" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
+    <text x="498" y="69" fill="#7C3AED" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.8">03 · BUILD &amp; QA</text>
+    <text x="498" y="92" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Zero-Excel CI Pipeline</text>
+    <text x="498" y="112" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· Pure-Python MS-OVBA/CFB</text>
+    <text x="498" y="129" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· Custom static VBA linter</text>
+    <text x="498" y="146" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">· 20+ headless test suites</text>
+
+    <!-- Arrow 3 -->
+    <line x1="684" y1="103" x2="702" y2="103" stroke="#0D9488" stroke-width="1.5" />
+    <polygon points="701,99 708,103 701,107" fill="#0D9488" />
+
+    <!-- Node 4: Measured Outcome -->
+    <rect x="710" y="46" width="166" height="114" rx="10" fill="#F0FDFA" stroke="#5EEAD4" stroke-width="1.2" />
+    <text x="726" y="69" fill="#0F766E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.8">04 · OUTCOME</text>
+    <text x="726" y="102" fill="#0F766E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="22" font-weight="700" letter-spacing="-0.6">1,000+ hrs</text>
+    <text x="726" y="123" fill="#115E59" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500">saved every year</text>
+    <text x="726" y="144" fill="#0F766E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" opacity="0.85">Multi-ERP O2C &amp; finance</text>
+  </g>
+
+  <rect x="1" y="1" width="898" height="182" rx="12" fill="none" stroke="#D0D7DE" stroke-width="1" />
+</svg>
