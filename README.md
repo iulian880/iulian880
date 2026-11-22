@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:petcuiulian@icloud.com"><strong>petcuiulian@icloud.com</strong></a>
   &nbsp;·&nbsp;
-  <a href="#enterprise-automation-1000-hours-saved-annually">Enterprise Automation (Robot SAP)</a>
+  <a href="#enterprise-automation-1000-hours-saved-annually">Enterprise (Robot SAP)</a>
   &nbsp;·&nbsp;
   <a href="#fintech-desktop--ai-systems">Fintech, Desktop &amp; AI</a>
   &nbsp;·&nbsp;
@@ -22,11 +22,11 @@
 
 ---
 
-**Applied Computer Science graduate** with **5+ years in Fortune Global 500 finance operations**, building software where correctness, auditability, and operational controls are non-negotiable.
+**Applied Computer Science graduate** transitioning full-time into **Software Engineering** after **5+ years as a Financial Accountant** in Fortune Global 500 enterprise operations — currently building software independently as a freelancer and looking for a **long-term, stable full-time engineering role**.
 
-I started by engineering internal automation suites that **reclaimed 1,000+ hours annually** across finance teams under strict corporate IT lock-downs — and now design and ship standalone **fintech execution engines, local-first desktop systems, deterministic AI agent tooling, and high-craft interactive web applications** across **Python**, **C# / .NET 10**, **Node.js 22**, and **React / TypeScript**.
+My transition started from a real operational pain point: while owning day-to-day accounting workflows where accuracy and audit controls are non-negotiable, I began engineering internal automation tools (`Robot SAP`, invoice journals, reconciliation utilities) that **reclaimed 1,000+ hours annually** across the team.
 
-My edge is owning both sides of the problem: I know financial reconciliation, operational controls, and enterprise failure modes from the inside, and I ship tested, fail-closed software to eliminate them.
+From there, I went all-in on software engineering — designing and shipping standalone **fintech execution engines, local-first desktop systems, deterministic AI agent tooling, and interactive web applications** across **Python**, **C# / .NET 10**, **Node.js 22**, and **React / TypeScript**, backed by **1,141+ automated tests**.
 
 ---
 
@@ -278,9 +278,10 @@ Editorial bilingual (**English / Romanian**) storefront and interactive ordering
 
 ## Background & Contact
 
+- **Career Path:** 5+ years as Financial Accountant in enterprise operations (where I automated 1,000+ hrs/yr of team workflows) → Independent / Freelance Software Developer → **Seeking a stable, full-time Software Engineering role**
 - **Education:** B.Sc. in Applied Computer Science — West University of Timișoara (2017–2020)
 - **Languages:** Romanian (Native) · English (C1 — Cambridge CAE) · German (B1)
 - **Currently Exploring:** RAG pipelines over financial documents, deterministic LLM agent workflows, FastAPI & containerized backend services
-- **Availability:** Open to **Remote (EU)** and **Timișoara (Hybrid)** engineering roles — Software Engineering, Automation, Fintech & AI Tooling
+- **Availability:** Open to **full-time Remote (EU)** and **Timișoara (Hybrid / On-site)** engineering roles — Software Engineering, Automation, Fintech & AI Tooling
 
 📫 **Reach me directly:** [petcuiulian@icloud.com](mailto:petcuiulian@icloud.com)

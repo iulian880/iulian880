@@ -33,9 +33,9 @@
     <text x="40" y="39" fill="#57606A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="500" letter-spacing="1.1">TIMIȘOARA, RO  ·  OPEN TO REMOTE (EU)</text>
 
     <!-- Status Pill -->
-    <rect x="626" y="21" width="234" height="26" rx="13" fill="#F0FDFA" stroke="#99F6E4" stroke-width="1" />
-    <circle cx="645" cy="34" r="4" fill="#0D9488" />
-    <text x="658" y="38" fill="#0F766E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.4">OPEN TO ENGINEERING ROLES</text>
+    <rect x="614" y="21" width="246" height="26" rx="13" fill="#F0FDFA" stroke="#99F6E4" stroke-width="1" />
+    <circle cx="633" cy="34" r="4" fill="#0D9488" />
+    <text x="646" y="38" fill="#0F766E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.4">SEEKING FULL-TIME ENGINEERING</text>
 
     <!-- Display Name -->
     <text x="40" y="92" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.8">Iulian Petcu</text>
@@ -44,32 +44,32 @@
     <text x="40" y="122" fill="#0F766E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="-0.1">Software Engineer — Automation, Fintech &amp; AI Tooling</text>
 
     <!-- Credibility Summary Line -->
-    <text x="40" y="149" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">B.Sc. Applied CS  ·  5+ yrs Enterprise Finance Ops  ·  Fail-closed systems built for zero-margin-of-error environments</text>
+    <text x="40" y="149" fill="#475569" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">B.Sc. Applied CS  ·  5+ yrs Financial Accountant → Software Engineer  ·  Freelancer seeking long-term full-time stability</text>
 
     <!-- Horizontal Divider -->
     <line x1="40" y1="176" x2="860" y2="176" stroke="#E2E8F0" stroke-width="1" />
 
     <!-- KPI 1 -->
-    <text x="40" y="216" fill="#0F766E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20.5" font-weight="700" letter-spacing="-0.5">1,000+ hrs/yr</text>
-    <text x="40" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Reclaimed via enterprise automation</text>
+    <text x="40" y="216" fill="#0F766E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="-0.5">1,000+ hrs/yr</text>
+    <text x="40" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Saved via internal automation</text>
 
-    <line x1="270" y1="194" x2="270" y2="248" stroke="#E2E8F0" stroke-width="1" />
+    <line x1="258" y1="194" x2="258" y2="248" stroke="#E2E8F0" stroke-width="1" />
 
     <!-- KPI 2 -->
-    <text x="286" y="216" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20.5" font-weight="700" letter-spacing="-0.5">1,141+ Tests</text>
-    <text x="286" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Public CI + 20 ERP test suites</text>
+    <text x="276" y="216" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="-0.5">1,141+ Tests</text>
+    <text x="276" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Public CI + 20 ERP test suites</text>
 
-    <line x1="494" y1="194" x2="494" y2="248" stroke="#E2E8F0" stroke-width="1" />
+    <line x1="482" y1="194" x2="482" y2="248" stroke="#E2E8F0" stroke-width="1" />
 
     <!-- KPI 3 -->
-    <text x="512" y="216" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20.5" font-weight="700" letter-spacing="-0.5">7 Flagships</text>
-    <text x="512" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">ERP · Fintech · AI · Desktop · Web</text>
+    <text x="500" y="216" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="-0.5">7 Systems</text>
+    <text x="500" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">ERP · Fintech · AI · WPF · Web</text>
 
-    <line x1="708" y1="194" x2="708" y2="248" stroke="#E2E8F0" stroke-width="1" />
+    <line x1="686" y1="194" x2="686" y2="248" stroke="#E2E8F0" stroke-width="1" />
 
     <!-- KPI 4 -->
-    <text x="724" y="216" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20.5" font-weight="700" letter-spacing="-0.5">5+ Yrs</text>
-    <text x="724" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Finance ops × engineering</text>
+    <text x="704" y="216" fill="#0F172A" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="-0.5">CS + 5y Fin.</text>
+    <text x="704" y="239" fill="#57606A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Accountant → Software Eng.</text>
   </g>
 
   <!-- Crisp Outer Border -->
